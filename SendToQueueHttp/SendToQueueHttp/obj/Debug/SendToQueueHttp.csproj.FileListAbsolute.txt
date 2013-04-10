@@ -1,0 +1,5 @@
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueueHttp\SendToQueueHttp\bin\Debug\SendToQueueHttp.exe.config
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueueHttp\SendToQueueHttp\bin\Debug\SendToQueueHttp.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueueHttp\SendToQueueHttp\bin\Debug\SendToQueueHttp.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueueHttp\SendToQueueHttp\obj\Debug\SendToQueueHttp.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueueHttp\SendToQueueHttp\obj\Debug\SendToQueueHttp.pdb

@@ -1,0 +1,18 @@
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.exe.config
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.csprojResolveAssemblyReference.cache
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.exe.config
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\ReceiveFromQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Kerry Jenkins\Dropbox\Harding\ReceiveFromQueue\ReceiveFromQueue\obj\Debug\ReceiveFromQueue.csprojResolveAssemblyReference.cache

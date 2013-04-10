@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+    <div class="container">
+      <div class="row">
+        <div class="span6">
+          <h2>Who to send to?</h2>
+            <select id="who">
+                <option>All</option>
+                <option>iOS</option>
+                <option>iPhone</option>
+                <option>iPad</option>
+                <option>Windows</option>
+                <option>Lenovo</option>
+                <option>VMWare</option>
+            </select>
+            <div>
+                <p><span class="lead" id="status"></span>
+                    <img  src="~/Content/img/ajax-loader.gif" id="busyImage" style="display: none"/>
+                </p>
+            </div>
+        </div>
+        <div class="span5">
+          <h2>What color to Send?</h2>
+          <p><button class="span3 btn btn-large btn-primary" type="button">Blue</button></p>
+          <p><button class="span3 btn btn-large btn-success" type="button">Green</button></p>
+          <p><button class="span3 btn btn-large btn-warning" type="button">Orange</button></p>
+          <p><button class="span3 btn btn-large btn-danger" type="button">Red</button></p>
+        </div>
+      </div>
+      <div class="span1"></div>
+    </div> 
+
+@section scripts
+{
+    <script>
+        $("button").click(function () {
+            var who = $("select :selected").text();
+            var color = $(this).text();
+            $("#status").text(color + " being sent to " + who + "...");
+            $("#busyImage").show();
+            sendColor(who, color);
+        });
+        
+        function sendColor(who, color) {
+            $.ajax({
+                url: "api/publish/" + who + "/" + color,
+                type: "GET",
+                dataType: "json",
+                success: function(json) {
+                    $("#status").text(json.status);
+                },
+                error: function(xhr, status) {
+                    $("#status").text("An error occurred, please try again.");
+                },
+                complete: function(xhr, status) {
+                    $("#busyImage").hide();
+                }
+            });  
+        }
+    </script>
+}

@@ -1,0 +1,18 @@
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\SendToQueue.exe.config
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\SendToQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\SendToQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\obj\Debug\SendToQueue.csprojResolveAssemblyReference.cache
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\obj\Debug\SendToQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\dev\win\Azure Service Bus\SendToQueue\SendToQueue\obj\Debug\SendToQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\SendToQueue.exe.config
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\obj\Debug\SendToQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\obj\Debug\SendToQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\SendToQueue.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\SendToQueue.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Kerry Jenkins\Dropbox\Harding\SendToQueue\SendToQueue\obj\Debug\SendToQueue.csprojResolveAssemblyReference.cache

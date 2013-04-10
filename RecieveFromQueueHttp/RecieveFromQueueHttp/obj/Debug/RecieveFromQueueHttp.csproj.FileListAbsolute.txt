@@ -1,0 +1,6 @@
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\bin\Debug\RecieveFromQueueHttp.exe.config
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\bin\Debug\RecieveFromQueueHttp.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\bin\Debug\RecieveFromQueueHttp.pdb
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\obj\Debug\RecieveFromQueueHttp.csprojResolveAssemblyReference.cache
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\obj\Debug\RecieveFromQueueHttp.exe
+C:\Users\Kerry Jenkins\Dropbox\Harding\RecieveFromQueueHttp\RecieveFromQueueHttp\obj\Debug\RecieveFromQueueHttp.pdb
